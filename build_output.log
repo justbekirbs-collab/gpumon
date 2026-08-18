@@ -1,0 +1,82 @@
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/data.o src/data.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/daycare.o src/daycare.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/decompress.o src/decompress.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/decoration.o src/decoration.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/digit_obj_util.o src/digit_obj_util.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/diploma.o src/diploma.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/dma3_manager.o src/dma3_manager.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/dodrio_berry_picking.o src/dodrio_berry_picking.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/dodrio_berry_picking_comm.o src/dodrio_berry_picking_comm.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/dynamic_placeholder_text_util.o src/dynamic_placeholder_text_util.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/easy_chat.o src/easy_chat.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/easy_chat_2.o src/easy_chat_2.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/easy_chat_3.o src/easy_chat_3.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/ereader_helpers.o src/ereader_helpers.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/ereader_screen.o src/ereader_screen.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/event_data.o src/event_data.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/event_object_lock.o src/event_object_lock.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/event_object_movement.o src/event_object_movement.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/evolution_graphics.o src/evolution_graphics.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/evolution_scene.o src/evolution_scene.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fame_checker.o src/fame_checker.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_camera.o src/field_camera.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_control_avatar.o src/field_control_avatar.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_door.o src/field_door.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_effect.o src/field_effect.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_effect_helpers.o src/field_effect_helpers.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_fadetransition.o src/field_fadetransition.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_message_box.o src/field_message_box.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_player_avatar.o src/field_player_avatar.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_poison.o src/field_poison.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_screen_effect.o src/field_screen_effect.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_special_scene.o src/field_special_scene.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_specials.o src/field_specials.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_tasks.o src/field_tasks.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_weather.o src/field_weather.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_weather_effects.o src/field_weather_effects.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/field_weather_util.o src/field_weather_util.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fieldmap.o src/fieldmap.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_cut.o src/fldeff_cut.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_dig.o src/fldeff_dig.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_flash.o src/fldeff_flash.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_poison.o src/fldeff_poison.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_rocksmash.o src/fldeff_rocksmash.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_softboiled.o src/fldeff_softboiled.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_strength.o src/fldeff_strength.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_sweetscent.o src/fldeff_sweetscent.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/fldeff_teleport.o src/fldeff_teleport.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/gpu_regs.o src/gpu_regs.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/graphics.o src/graphics.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/hall_of_fame.o src/hall_of_fame.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/heal_location.o src/heal_location.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/help_message.o src/help_message.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/help_system.o src/help_system.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/help_system_util.o src/help_system_util.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/hof_pc.o src/hof_pc.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/image_processing_effects.o src/image_processing_effects.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/intro.o src/intro.c
+tools/agbcc/bin/old_agbcc <flags> -o build/firered/src/isagbprn.o src/isagbprn.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/item_menu.o src/item_menu.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/item_menu_icons.o src/item_menu_icons.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/item_pc.o src/item_pc.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/item_use.o src/item_use.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/itemfinder.o src/itemfinder.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/keyboard_text.o src/keyboard_text.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/learn_move.o src/learn_move.c
+tools/agbcc/bin/agbcc_arm <flags> -o build/firered/src/librfu_intr.o src/librfu_intr.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/librfu_rfu.o src/librfu_rfu.c
+tools/agbcc/bin/agbcc <flags> -o build/firered/src/librfu_sio32id.o src/librfu_sio32id.c
+src/item_use.c:967: `ROUTE4' undeclared here (not in a function)
+src/item_use.c:967: initializer element for `sScript_SkipMtMoon[1]' is not constant
+src/item_use.c:967: `ROUTE4' undeclared here (not in a function)
+src/item_use.c:967: initializer element for `sScript_SkipMtMoon[2]' is not constant
+agbcc: warnings being treated as errors
+src/item_use.c: In function `UseSkipMtMoon':
+src/item_use.c:976: warning: implicit declaration of function `ScriptContext1_SetupScript'
+src/item_use.c: At top level:
+src/item_use.c:980: redefinition of `FieldUseFunc_SkipMtMoon'
+src/item_use.c:954: `FieldUseFunc_SkipMtMoon' previously defined here
+{standard input}: Assembler messages:
+{standard input}:3333: Error: symbol `FieldUseFunc_SkipMtMoon' is already defined
+make: *** [build/firered/src/item_use.o] Error 1
+make: *** Waiting for unfinished jobs....
